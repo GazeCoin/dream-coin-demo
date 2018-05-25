@@ -8,7 +8,7 @@ It distrupts the music industry using blockchain! By leveraging GazeCoin platfor
 
 When a new artist comes on board, more DreamCoins are minted for his crowdsale and branded DreamFrames are created when the artwork is ready.
 
-This demo shows how to buy a DreamCoin and how use it to claim your own piece of art. It is showcased on one song by [Taylor Swift - Shake it off](https://en.wikipedia.org/wiki/Shake_It_Off), but could be easily generalised.
+This demo shows how to buy a DreamCoin and how use it to claim your own piece of art. It is showcased on one song `Selling my dreams` by Dave Goode & Jeremy Hill.
 
 There are four tabs in the UI:
 
