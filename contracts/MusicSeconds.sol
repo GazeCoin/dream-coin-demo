@@ -206,6 +206,7 @@ contract MusicSeconds is ERC721, ERC721BasicToken, ApproveAndCallFallback {
    */
   function _mint(address _to, uint256 _tokenId) internal {
   	require(_tokenId < framesLimit && allTokens.length < framesLimit);
+    require(!exists(_tokenId));
     super._mint(_to, _tokenId);
 
     allTokensIndex[_tokenId] = allTokens.length;
